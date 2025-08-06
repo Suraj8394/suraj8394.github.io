@@ -16,6 +16,6 @@ Welcome to my portfolio! Here, you can explore my:
 ---
 
 ## 📫 Contact  
-Reach me via email at [adityannambiar9@gmail.com](mailto:surajpratap469@gmail.com) or through the links in the **Profile** section.  
+Reach me via email at [surajpratap469@gmail.com](mailto:surajpratap469@gmail.com) or through the links in the **Profile** section.  
 
 Thank you for visiting! 😊  
